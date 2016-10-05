@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8465FF99-3648-490B-87FF-672DE1F76DA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>zFM</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6CED2AE-08C3-4541-8154-B6A4EF87F497</key>
+		<string>https://github.com/zykhbl/rtmpzFM.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>zFM.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6CED2AE-08C3-4541-8154-B6A4EF87F497</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zykhbl/rtmpzFM.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6CED2AE-08C3-4541-8154-B6A4EF87F497</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6CED2AE-08C3-4541-8154-B6A4EF87F497</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rtmpzFM</string>
+		</dict>
+	</array>
+</dict>
+</plist>
