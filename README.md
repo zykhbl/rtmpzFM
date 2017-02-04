@@ -1,7 +1,5 @@
 # rtmpzFM
 
-献给所有的copy cat们。。
-
 rtmpzFM基于rtmp直播协议，实现了rtmp服务器，推流端，拉流端并播放等功能。。
 
 DONE:
